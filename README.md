@@ -11,23 +11,23 @@ This is the fourth Heading.
 ##### HEADING 6         
 This is the sixth heading.   
 
-##Bold  
+## Bold  
 **Bold**  
 
-##Bold plus italic  
+## Bold plus italic  
 ***bold plus italic*** 
 
-##ITALIC    
+## ITALIC    
 *italic form*  
 _italic form_  
 
-##block code  
+## block code  
 > this is block code
 >> this is another one
 
-##bolt and sub item  
--list of item  
--sub items  
+## bolt and sub item  
+- list of item  
+- sub items  
   1. class
   2. rooms
   3. toilets
