@@ -12,3 +12,11 @@ This is the fourth Heading.
 ##### HEADING 6         
 This is the sixth heading.  
 ***bold plus italic***
+
+##ITALIC  
+*italic form*
+_italic form_  
+
+##block code  
+> this is block code
+>> this is another one
