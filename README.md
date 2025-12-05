@@ -33,5 +33,5 @@ _italic form_
   3. toilets
 
 ## insert code  
-We use 'Python' for this program.
+We use `Python` for this program.
   
