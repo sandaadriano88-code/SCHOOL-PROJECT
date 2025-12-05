@@ -47,7 +47,7 @@ We use `Python` for this program.
  ---  
 
  ## sitation  
- This code was created by [YVESDYLAN] (http://google.com)
+ This code was created by [YVESDYLAN](http://google.com)
 
 
   
