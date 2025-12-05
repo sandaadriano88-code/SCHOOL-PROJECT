@@ -9,11 +9,10 @@ This is the third heading.
 This is the fourth Heading.  
 
 ##### HEADING 6         
-This is the sixth heading.  
-   
+This is the sixth heading.   
 
 ##Bold
-**Bold**
+**Bold**  
 
 ##Bold plus italic
 ***bold plus italic*** 
@@ -26,9 +25,9 @@ _italic form_
 > this is block code
 >> this is another one
 
-##bolt and sub item
--list of item 
-  -sub items  
+##bolt and sub item  
+-list of item  
+-sub items  
   1. class
   2. rooms
   3. toilets
