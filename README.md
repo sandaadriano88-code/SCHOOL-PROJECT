@@ -6,5 +6,5 @@ this is to accept contribution.
 This is the third heading.
 #### HEADING 4
 This is the fourth Heading.
-##### HEADING 6      This is the sixth heading.
+##### HEADING 6            This is the sixth heading.
 
