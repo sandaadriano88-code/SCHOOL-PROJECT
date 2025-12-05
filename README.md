@@ -4,14 +4,19 @@ This is my school project.
 this is to accept contribution.
 ### HEADING 3
 This is the third heading.  
-*Italic*  
-_Italic_
+
 #### HEADING 4
 This is the fourth Heading.  
-**Bold**
+
 ##### HEADING 6         
 This is the sixth heading.  
-***bold plus italic***
+   
+
+##Bold
+**Bold**
+
+##Bold plus italic
+***bold plus italic*** 
 
 ##ITALIC  
 *italic form*
@@ -20,3 +25,13 @@ _italic form_
 ##block code  
 > this is block code
 >> this is another one
+
+##bolt and sub item
+-list of item 
+  -sub items  
+  1. class
+  2. rooms
+  3. toilets
+
+##sub item
+  
