@@ -4,7 +4,8 @@ This is my school project.
 this is to accept contribution.
 ### HEADING 3
 This is the third heading.  
-*Italic*
+*Italic*  
+_Italic_
 #### HEADING 4
 This is the fourth Heading.  
 **Bold**
