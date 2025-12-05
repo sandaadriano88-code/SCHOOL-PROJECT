@@ -36,7 +36,7 @@ _italic form_
 We use `Python` for this program.  
 
 ## Block of codes  
-```cmd
+```command
       git clone <URL>
 ```
 ``` javascript
