@@ -25,7 +25,7 @@ _italic form_
 > this is block code
 >> this is another one
 
-## bolt and sub item  
+## bloc and sub item  
 - list of item  
 - sub items  
   1. class
@@ -33,5 +33,5 @@ _italic form_
   3. toilets
 
 ## insert code  
-We use ' Python ' for this program.
+We use '<Python>' for this program.
   
